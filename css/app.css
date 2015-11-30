@@ -1,0 +1,21 @@
+body{
+	background:#64a0b3;
+	color:#fff;
+}
+
+.panel, .panel-heading, .list-group, .list-group li{
+	background: #477f91 !important;
+	color: #fff !important;
+}
+
+#weather{
+	margin-bottom: 20px;
+}
+
+footer{
+	text-align: center;
+	background: #333;
+	color: #fff;
+	height: 40px;
+	padding-top: 10px;
+}
